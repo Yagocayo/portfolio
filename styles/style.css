@@ -7,3 +7,14 @@
     text-decoration: none;
 
 }
+nav  {
+    display: flex;
+    gap: 20px;
+    justify-content: end;
+    margin: 20px;
+    
+}
+ul {
+    display: flex;
+    gap: 20px;
+}
