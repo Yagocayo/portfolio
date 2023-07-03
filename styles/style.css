@@ -79,6 +79,12 @@ section {
     
 }
 img {
-    width: 200px;
-    padding: 2rem;
+    max-width: 100%;
+    width: 250px;
+    padding: 0rem;
+    
+    
+}
+#mask1 {
+    
 }
